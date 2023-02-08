@@ -37,6 +37,7 @@ public class TinhScv {
           
         } else {
             System.out.println("Không tồn tại tam giác");
+            System.out.println("Không tồn tại tam giác");
         }
     }
 }
